@@ -425,6 +425,15 @@
   }, 
   {
     "ref": "Based on fake",
+    "length": 3.842,
+    "elements": [
+      "Rh",
+      "B"
+    ],
+    "bond_order": 1.0
+  }, 
+  {
+    "ref": "Based on fake",
     "length": 2.615,
     "elements": [
       "Au",
